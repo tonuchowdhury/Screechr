@@ -1,3 +1,13 @@
+Dependencies:
+    1. Newtonsoft.Json
+    2. Microsoft.EntityFrameworkCore
+    3. Microsoft.EntityFrameworkCore.InMemory
+    4. Microsoft.IdentityModel.Tokens
+    5. Moq
+    6. Swashbuckle.AspNetCore
+
+
+How to run:
 1. Run project in IIS Express.
 2. Create users by using following commands in postman - 
     POST - http://localhost:13486/User
